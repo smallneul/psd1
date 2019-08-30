@@ -1,0 +1,390 @@
+body{
+ margin:0;
+
+}
+.Shape3 {/* Style for "Shape 3" */
+width: 242px;
+height:100%;
+
+position: fixed;
+background-color: #444c63;
+}
+.Shape2{
+width: 1200px;
+
+height: 100%;
+margin-left: 202px;
+box-shadow: 0 0 16px rgba(23, 31, 45, 0.24);
+background-color:#ffff;
+}
+#boxpic{
+ margin-top: 16px;
+ margin-left: 93px;
+ width: 53px;
+ height: 49px;
+position: absolute;
+}
+#file1{
+margin-top: 89px;
+margin-left: 16px;
+width: 20px;
+height: 24px;
+position: absolute;
+}
+#infile1{
+width: 10px;
+height: 10px;
+margin-top: 99px;
+margin-left: 21px;
+position: absolute;
+}
+
+#ff{
+margin-top: 142px;
+margin-left: 16px;
+
+width: 22px;
+height: 23px;
+
+
+position: absolute;
+}
+#ff1{
+margin-top: 145px;
+margin-left: 19px;
+width: 16px;
+height: 15px;
+
+
+position: absolute;
+}
+#ff2{
+
+width: 18px;
+height: 14px;
+
+margin-top: 145px;
+margin-left: 17px;
+
+position: absolute;
+}
+#crug{
+  width: 23px;
+  height: 23px;
+  margin-top: 188px;
+  margin-left: 16px;
+  position: absolute;
+}
+#crug1{
+  /* Style for "Shape 10" */
+width: 10px;
+height: 27px;
+margin-left: 22px;
+margin-top: 186px;
+position: absolute;
+}
+#polos{
+width: 23px;
+height: 10px;
+margin-left: 16px;
+margin-top: 238px;
+position: absolute;
+}
+#polosdot{
+  width: 13px;
+  height: 10px;
+  margin-left: 21px;
+  margin-top: 238px;
+  position: absolute;
+}
+#time{
+  width: 23px;
+  height: 23px;
+  margin-left: 16px;
+  margin-top: 275px;
+  position: absolute;
+}
+#time1{
+  width: 9px;
+  height: 9px;
+  margin-left: 25px;
+  margin-top: 279px;
+  position: absolute;
+}
+
+#inwbox{
+  width: 22px;
+  height: 23px;
+  margin-left: 16px;
+  margin-top: 323px;
+  position: absolute;
+
+}
+#iinwbox{
+  width: 13px;
+  height: 15px;
+  margin-left: 25px;
+  margin-top: 333px;
+  position: absolute;
+}
+@font-face {
+  font-family: "Open sans";
+  src: url(Fonts/OpenSans-Regular.ttf);
+}
+#pip{
+width: 120px;
+height: 9px;
+margin-left: 26px;
+margin-top: 750px;
+color: #ffffff;
+font-family: "Open Sans";
+font-size: 15px;
+font-weight: 800;
+line-height: 45px;
+text-transform: uppercase;
+position: absolute;
+}
+#line{
+  /* Style for "Shape 35 c" */
+width: 189px;
+height: 3px;
+margin-left: 26px;
+margin-top: 800px;
+position: absolute;
+}
+#blueline{
+  /* Style for "Shape 35 c" */
+width: 89px;
+height: 3px;
+margin-left: 26px;
+margin-top: 800px;
+position: absolute;
+}
+#blueshape{
+  /* Style for "Shape 16" */
+width: 189px;
+height: 44px;
+margin-left: 26px;
+margin-top: 860px;
+position: absolute;
+}
+#inblueshape{
+  /* Style for "Shape 14 c" */
+width: 12px;
+height: 13px;
+margin-top: 875px;
+margin-left: 34px;
+position: absolute;
+}
+#pipu{
+  /* Style for "Upgrade ac" */
+width: 165px;
+height: 14px;
+color: #ffffff;
+font-family: "Open Sans";
+font-size: 16px;
+font-weight: 300;
+line-height: 60px;
+margin-left: 54px;
+margin-top: 852px;
+position: absolute;
+}
+#pipv1{
+
+color: #8692b2;
+font-family: "Open Sans";
+font-size: 15px;
+font-weight: 400;
+line-height: 32px;
+/* Text style for "Photos" */
+margin-left: 55px;
+margin-top: 89px;
+position: absolute;
+
+}
+#pipv2{
+
+  color: #8692b2;
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  margin-left: 55px;
+  margin-top: 144px;
+
+}
+#pipv3{
+  color: #8692b2;
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  margin-left: 55px;
+  margin-top: 190px;
+}
+#pipv4{
+  color: #8692b2;
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  margin-left: 55px;
+  margin-top: 232px;
+}
+#pipv5{
+  color: #8692b2;
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  margin-left: 55px;
+  margin-top: 276px;
+}
+#pipv6{
+  color: #8692b2;
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  margin-left: 55px;
+  margin-top: 327px;
+}
+#boxpiv{
+  /* Style for "Shape 15" */
+width: 19px;
+height: 19px;
+margin-left: 200px;
+margin-top: 329px;
+position: absolute;
+}
+#boxpivt{
+  /* Style for "3" */
+width: 8px;
+height: 10px;
+color: #00b5f9;
+font-family: "Open Sans";
+font-size: 16px;
+font-weight: 400;
+line-height: 45px;
+position: absolute;
+margin-top: 317px;
+margin-left: 205px;
+}
+#shapip{
+  /* Style for "Shape 36" */
+width: 20px;
+height: 20px;
+
+position: absolute;
+margin-left: 185px;
+margin-top: 762px;
+}
+#upstrip{
+width: 1200px;
+height:70px;
+box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
+position: absolute;
+opacity: 0.5;
+margin-left: 242px;
+}
+#lupa1{
+position: absolute;
+width: 19px;
+height: 19px;
+margin-left: 85px;
+margin-top: 20px;
+}
+#lupa2{
+width: 8px;
+height: 7px;
+position: absolute;
+margin-left: 100px;
+margin-top: 39px;
+}
+#sarch{
+  position: absolute;
+width: 60px;
+height: 21px;
+color: #b6bdd2;
+font-family: "Open Sans";
+font-size: 19px;
+font-weight: 400;
+line-height: 61px;
+margin-top: 3px;
+margin-left: 119px;
+}
+#ding{
+ width: 19px;
+ height: 20px;
+ position: absolute;
+ margin-left: 1410px;
+ margin-top: 22px;
+}
+#blding{
+  width: 7px;
+  height: 6px;
+  margin-left: 1416px;
+  margin-top: 40px;
+  position: absolute;
+}
+#strelat{
+width: 157px;
+height: 13px;
+color: #364760;
+font-family: "Open Sans";
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+margin-left: 1453px;
+margin-top: 25px;
+position: absolute;
+}
+#strela{
+  width: 10px;
+  height: 8px;
+  margin-left: 1615px;
+  margin-top: 31px;
+  position: absolute;
+
+}
+#phot{
+margin-left: 90px;
+margin-top: 105px;
+position: absolute;
+width: 80px;
+opacity: 0.9;
+height: 20px;
+color: #364760;
+font-family: "Open Sans";
+font-size: 23px;
+font-weight: 100;
+line-height: 70px;
+}
+#file0{
+width: 23px;
+height: 26px;
+margin-left: 90px;
+margin-top: 195px;
+position: absolute;
+}
+#file01{
+  width: 10px;
+  height: 11px;
+  margin-left: 96px;
+  margin-top: 202px;
+  position: absolute;
+}
+#file02{
+  width: 13px;
+  height: 17px;
+  margin-left: 87px;
+  margin-top: 208px;
+  position: absolute;
+}
+#papk0{
+  width: 25px;
+  height: 22px;
+  margin-left: 135px;
+  margin-top: 197px;
+  position: absolute;
+}
